@@ -1,0 +1,15 @@
+ROCHESTER NY 30 Year Average Precipitation Data
+
+Month,Precipitation (in)
+01,2.08
+02,2.10
+03,2.28
+04,2.61
+05,2.72
+06,3.00
+07,2.71
+08,3.40
+09,2.97
+10,2.44
+11,2.92
+12,2.73
