@@ -108,15 +108,7 @@ void setup() {
   Serial.print("remainder(3000,1000) - ");
   Serial.println(remainder(3000,1000) == 0 ? "Pass" : "Fail");
 
-  // Test simple float
-  Serial.print("remainder(10.0,3.0) - ");
-  Serial.println(remainder(10.0,3.0) == 1.0 ? "Pass" : "Fail");
-
-  // Test negative float
-  Serial.print("remainder(-10.0,-3.0) - ");
-  Serial.println(remainder(-10.0,-3.0) == -1.0 ? "Pass" : "Fail");
-
-  // **** REMAINDER ****
+  // **** OTHER ****
   Serial.println("\n**** Testing getPi() ****");
   // Test get
   Serial.print("getPi() - ");
